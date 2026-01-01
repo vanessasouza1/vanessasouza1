@@ -6,6 +6,10 @@
 👩‍💻 Software Developer with experience in web systems  
 💻 Currently working with PHP, JavaScript, Vue.js and MySQL  
 
+---
+
+#### 📫 Connect with me  
+<a href="https://www.linkedin.com/in/vanessa-souza-oliveira/" target="_blank">LinkedIn</a>
 
 
 
