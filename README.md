@@ -1,4 +1,13 @@
-## Hi there 👋
+<h2 align="center"> 👋 Hi, I'm Vanessa Souza  </h2>
+
+#### About Me:
+
+🎓 Computer Engineer – UEFS  
+👩‍💻 Software Developer with experience in web systems  
+💻 Currently working with PHP, JavaScript, Vue.js and MySQL  
+
+
+
 
 <!--
 **vanessasouza1/vanessasouza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
